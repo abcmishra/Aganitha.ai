@@ -3,7 +3,7 @@ I have uploaded three notebooks in the github
 
 One notebook usues google API to convert speech to text(speech_recognition_Task)
 
-The other  notebook is to make module in python(my_speech_module)
+The other  notebook is to make module in python(mymodule)
 
 Third notebook is how to convert speech to text with feature extraction and building the model.(Speech_Recognition_Assingment)
 

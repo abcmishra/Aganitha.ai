@@ -1,7 +1,7 @@
 # Aganitha.ai
 I have uploaded three notebooks in the github
 
-One notebook usues google API to convert speech to text(speech_reconition)
+One notebook usues google API to convert speech to text(speech_recognition_Task)
 
 The other  notebook is to make module in python(my_speech_module)
 

@@ -1,11 +1,11 @@
 # Aganitha.ai
 I have uploaded three notebooks in the github
 
-One notebook usues google API to convert speech to text
+One notebook usues google API to convert speech to text(
 
 The other  notebook is to make module in python
 
-Third notebook is how to convert speech to text with feature extraction and building the model.
+Third notebook is how to convert speech to text with feature extraction and building the model.(Speech_Recognition_Assingment)
 
 The data has been taken from Kaggle for the third Notebook.
 
